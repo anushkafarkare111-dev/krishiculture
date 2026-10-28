@@ -6,7 +6,7 @@
 
 ## 🔗 Live Project Deployments
 * ** Official Frontend Production (Vercel):** (https://krishiculture-chi.vercel.app)
-* ** Alternative Frontend Mirror (Bolt):** (https://bolt.new/p/72452878)
+* ** Alternative Frontend Mirror (Bolt):** (https://krishiculture.bolt.host)
 
 ---
 

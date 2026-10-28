@@ -5,10 +5,8 @@
 ---
 
 ## 🔗 Live Project Deployments
-* ** Official Frontend Production (Vercel):** [PASTE_YOUR_VERCEL_URL_HERE](https://)
-* ** Alternative Frontend Mirror (Bolt):** [https://bolt.host](https://bolt.host)
-* ** Backend Synchronization API (Render):** [PASTE_YOUR_RENDER_URL_HERE](https://)
-* ** Cloud Storage Database Infrastructure (Supabase):** [PASTE_YOUR_SUPABASE_URL_HERE](https://)
+* ** Official Frontend Production (Vercel):** (https://krishiculture-chi.vercel.app)
+* ** Alternative Frontend Mirror (Bolt):** (https://bolt.new/p/72452878)
 
 ---
 
